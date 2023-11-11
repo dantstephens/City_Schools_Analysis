@@ -1,8 +1,8 @@
-# pandas-challenge
+# City Schools Analysis
 Completed by Daniel Stephens
 
 ## About this project
-This is an analysis of standardized math and reading test scores for high school students across a city school system to determine what, if any, impact school type, class size, or budget may have on these scores.
+This is an analysis of standardized math and reading test scores for high school students across a fictional city school system to determine what, if any, impact school type, class size, or budget may have on these scores.
 
 The project is written in Python, utilizing Pandas libraries and was completed using Jupyter Notebook. 
 
